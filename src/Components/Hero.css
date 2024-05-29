@@ -1,0 +1,8 @@
+.hero{
+    background-image: linear-gradiant(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://sugarfreelondoner.com/wp-content/uploads/2023/08/sugar-free-frozen-yogurt-1200.jpg")
+height: 50%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
